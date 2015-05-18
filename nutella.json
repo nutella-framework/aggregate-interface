@@ -1,0 +1,7 @@
+{
+  "name": "aggregate-interface",
+  "version": "0.1.0",
+  "type": "interface",
+  "description": "Example interface that displays statistics about Hunger Games ",
+  "repo": "https://github.com/nutella-framework/aggregate-interface.git"
+}
